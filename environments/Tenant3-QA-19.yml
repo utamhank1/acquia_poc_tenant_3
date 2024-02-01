@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "19"
+mappingDefinitions:
+  SRC:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  WORK:
+    database: JJ_ACQUIA_POC_TENANT_3_QA
+    schema: JJ_ACQUIA_POC_TENANT_3_QA
+name: Tenant 3 - QA
+type: Environment
